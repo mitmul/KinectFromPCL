@@ -1,0 +1,12 @@
+KinectFromPCL sample
+-It is for MacOSX
+
+===Required===
+
+PCL 1.3
+OpenNI 1.3.4.3
+NITE 1.4.2
+
+The Kinect driver should be avin2's one.
+You can get it from here:
+https://github.com/avin2/SensorKinect
